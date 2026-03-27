@@ -11,14 +11,13 @@
   Aqui você encontrará atividades práticas, listas de exercícios e exemplos utilizados ao longo da disciplina.
 
   [![Portugol](https://img.shields.io/badge/Portugol-00599C?style=for-the-badge&logoColor=white)]()
-  [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
+  [![Status](https://img.shields.io/badge/status-concluído-green)]()
 </p>
 
 ## Tabela de Conteúdo
 <ul> 
      <li><a href="#descricao">Descrição</a></li>
      <li><a href="#status">Status</a></li>
-     <li><a href="#mapa">Mapa do Projeto</a></li>
      <li><a href="#features">Conteúdos</a></li>
 </ul>
 
@@ -28,7 +27,7 @@
 
 <p>
   
-  ✔️ Em desenvolvimento — novos exercícios serão adicionados conforme o avanço na disciplina.
+  ✔️ Concluído
 </p>
 
 <p id="features"></p>
@@ -39,16 +38,6 @@
 - [X] Estruturas de repetição (for, while)
 - [X] Variáveis e tipos de dados
 - [X] Operadores lógicos e aritméticos
-- [ ] Vetores e matrizes
-- [ ] Funções
-
-<p id="mapa"></p>
-
-## 🗂️ Mapa do Projeto
-
-├───Imagens<br>
-├───Exercicios<br>
-└───README.md
 
 ---
 

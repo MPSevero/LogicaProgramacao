@@ -1,50 +1,57 @@
 <p width = "100%" align ="center">
-    <img src="./Imagens/readmelogo.jfif " width="350px">
+    <img src="./Imagens/readmelogo.jfif" width="350px">
 </p>
 
-# Documentação README
+# 📘 Lógica de Programação - Exercícios em Portugol
 
 <p align = "justify" id="descricao">
-  Este repositório apresenta um README padronizado.<br> 
-  Você irá ver utilização de imagens com html e markdown.
+  Este repositório contém exercícios de <b>Lógica de Programação</b> desenvolvidos durante o <b>primeiro semestre da graduação em Ciência da Computação</b>.<br> 
+  Os códigos foram escritos em <b>Portugol</b>, com foco no aprendizado dos conceitos fundamentais de programação.
 
-  Iremos apresentar um menu como tabela de conteúdo, tecnologias, badges, entre outros.
+  Aqui você encontrará atividades práticas, listas de exercícios e exemplos utilizados ao longo da disciplina.
 
-  [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-  [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-  [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-
+  [![Portugol](https://img.shields.io/badge/Portugol-00599C?style=for-the-badge&logoColor=white)]()
+  [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
 </p>
 
-## Tabelas de Conteúdo
+## Tabela de Conteúdo
 <ul> 
      <li><a href="#descricao">Descrição</a></li>
      <li><a href="#status">Status</a></li>
      <li><a href="#mapa">Mapa do Projeto</a></li>
-     <li><a href="#features">Features</a></li>
+     <li><a href="#features">Conteúdos</a></li>
 </ul>
 
 <p id="status"></p>
 
-## :rocket: Status do Projeto
+## 🚀 Status do Projeto
 
 <p>
   
-  ...Em construção
+  ✔️ Em desenvolvimento — novos exercícios serão adicionados conforme o avanço na disciplina.
 </p>
 
 <p id="features"></p>
 
-## Features
+## 📚 Conteúdos
 
-- [X] Badges
-- [X] Status
-- [ ] Tecnologias
+- [X] Estruturas condicionais (if/else)
+- [X] Estruturas de repetição (for, while)
+- [X] Variáveis e tipos de dados
+- [X] Operadores lógicos e aritméticos
+- [ ] Vetores e matrizes
+- [ ] Funções
 
 <p id="mapa"></p>
 
-## Mapa do Projeto
-
+## 🗂️ Mapa do Projeto
 
 ├───Imagens<br>
-└───temp
+├───Exercicios<br>
+└───README.md
+
+---
+
+<p align="center">
+  Desenvolvido como parte do aprendizado inicial em programação 👨‍💻
+</p>
